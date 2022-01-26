@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitchellBu
-- 👀 I’m interested in ML, DL and crypto.
-- 🛠 I'm currently working on an implementation of private set intersection protocol. 
-- 🌱 I’m currently learning DL and computer vision.
-- 📫 butovsky.mitchell@gmail.com
+- 👀 Current interests: Machine Learning and Deep Learning.
+- :tw-1f4d2: Previous interests: Crypto, Secure computation.
+- :tw-1f4aa: Current project: Lips Don't Lie 
+- :tw-1f4e9: butovsky.mitchell@gmail.com
