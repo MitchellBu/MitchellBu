@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitchellBu
-- 👀 Current interests: Machine Learning and Deep Learning.
+- :brain: Current interests: Machine Learning and Deep Learning.
 - :closed_lock_with_key: Previous interests: Crypto, Secure computation.
 - :lips: Current project: [Lips Don't Lie](https://github.com/MitchellBu/LipsDontLie "Lips Don't Lie")
 - :mailbox_closed: butovsky.mitchell@gmail.com
