@@ -2,4 +2,4 @@
 - 👀 Current interests: Machine Learning and Deep Learning.
 - :tw-1f4d2: Previous interests: Crypto, Secure computation.
 - :tw-1f4aa: Current project: Lips Don't Lie 
-- :tw-1f4e9: butovsky.mitchell@gmail.com
+- :mailbox_closed: butovsky.mitchell@gmail.com
